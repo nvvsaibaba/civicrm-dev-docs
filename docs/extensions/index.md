@@ -7,7 +7,7 @@ Todo:
 
 ## Introduction
 
-**CiviCRM Extensions** are packaged pieces of functionality that extend CiviCRM's out-of-the-box functionality, independent of CMS plaform.
+**CiviCRM Extensions** are packaged pieces of functionality that extend CiviCRM's out-of-the-box functionality, independent of CMS platform.
 
 This section covers how to write extensions.
 
